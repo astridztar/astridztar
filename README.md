@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astridztar
+- 👋 Hi, I’m Astrid
 - 👀 I’m interested in art, gamedev, music and linux
 - 🌐 My website is https://insect.christmas
 - 🌱 I’m currently learning more about linux
