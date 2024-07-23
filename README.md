@@ -1,6 +1,4 @@
-- 👋 name: astrid ztar
-- 🌐 website: https://insect.christmas
-- 😄 pronouns: she/her
+# astrid ztar of https://insect.christmas
 
 <!---
 astridztar/astridztar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
