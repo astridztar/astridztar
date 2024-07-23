@@ -1,8 +1,6 @@
-- 👋 Hi, I’m astrid
-- 👀 I’m interested in art, gamedev, music and linux
-- 🌐 My website is https://insect.christmas
-- 🌱 I’m currently learning more about linux
-- 😄 Pronouns: she/they
+- 👋 name: astrid ztar
+- 🌐 website: https://insect.christmas
+- 😄 pronouns: she/her
 
 <!---
 astridztar/astridztar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
