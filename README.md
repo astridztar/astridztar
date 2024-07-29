@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    <img src="https://img.shields.io/badge/Linux-dc3232?style=for-the-badge&logo=debian&logoColor=black">
+    <img src="https://img.shields.io/badge/Debian-dc3232?style=for-the-badge&logo=debian&logoColor=black">
   </li>
   <li>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
