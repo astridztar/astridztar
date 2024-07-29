@@ -1,5 +1,5 @@
 ```diff
-@@ astrid ztar of https://insect.christmas@@
+@@ astrid ztar of insect.christmas@@
 
 ! operating system
 ! languages
