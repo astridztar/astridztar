@@ -16,10 +16,6 @@
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compact)
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compacts" />
-</a>
-
 <p align="center"> 
   # of visits<br>
   <img src="https://profile-counter.glitch.me/astridztar/count.svg" />
