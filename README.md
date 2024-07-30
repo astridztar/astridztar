@@ -17,7 +17,7 @@
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compact)
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astridztar&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compacts" />
 </a>
 
 <p align="center"> 
