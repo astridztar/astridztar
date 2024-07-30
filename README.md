@@ -2,9 +2,8 @@
 @@ astrid ztar of insect.christmas@@
 
 ! website
-! operating system
-! desktop environments
-! languages
+! operating system → desktop environments
+! programming languages
 ```
 <ul style="list-style: none; padding-left:0"><a href="https://insect.christmas"><img src="https://img.shields.io/badge/insect.christmas-c0ff00?style=for-the-badge&logo=bug&logoColor=black"></a></ul>
 
