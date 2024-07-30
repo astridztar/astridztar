@@ -4,7 +4,7 @@
 ! website
 ! daily driver os → desktop environments
 ! programming languages
-! artsy software i use
+! favorite software
 ```
 <ul style="list-style: none; padding-left:0"><a href="https://insect.christmas"><img src="https://img.shields.io/badge/insect.christmas-c0ff00?style=for-the-badge&logoColor=white"></a></ul>
 
