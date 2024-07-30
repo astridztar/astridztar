@@ -16,11 +16,8 @@
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compact)
 
-<a href="https://github.com/astridztar/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astridztar&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/astridztar/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astridztar&repo=convoychat" />
 </a>
 
 <p align="center"> 
