@@ -6,7 +6,7 @@
 ! desktop environments
 ! languages
 ```
-<ul style="list-style: none; padding-left:0"><a href="https://insect.christmas"><img src="https://img.shields.io/badge/insect.christmas-c0ff00?style=for-the-badge&logo=bug&logoColor=black"></a>/ul>
+<ul style="list-style: none; padding-left:0"><a href="https://insect.christmas"><img src="https://img.shields.io/badge/insect.christmas-c0ff00?style=for-the-badge&logo=bug&logoColor=black"></a></ul>
 <ul style="list-style: none; padding-left:0"><img src="https://img.shields.io/badge/Debian-dc3232?style=for-the-badge&logo=debian&logoColor=black"></ul>
 
 <ul style="list-style: none; padding-left:0"><img src="https://img.shields.io/badge/KDE%20Plasma-ff5bdb?style=for-the-badge&logo=KDE&logoColor=black"><img src="https://img.shields.io/badge/XFCE-ff5b81?style=for-the-badge&logo=xfce&logoColor=black"><img src="https://img.shields.io/badge/CLI-ff905b?style=for-the-badge&logo=debian&logoColor=black"></ul>
