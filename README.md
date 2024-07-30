@@ -1,7 +1,8 @@
 ```diff
 @@ astrid ztar of insect.christmas@@
 
-* wpm: 160
++ english
+- wpm: 160
 
 ! website
 ! daily driver os → desktop environments
