@@ -9,7 +9,7 @@
 <ul style="list-style: none; padding-left:0"><a href="https://insect.christmas"><img src="https://img.shields.io/badge/insect.christmas-c0ff00?style=for-the-badge&logo=bug&logoColor=black"></a></ul>
 
 <ul style="list-style: none; padding-left:0"><img src="https://img.shields.io/badge/Debian-dc3232?style=for-the-badge&logo=debian&logoColor=black">
--> <img src="https://img.shields.io/badge/KDE%20Plasma-ff5bdb?style=for-the-badge&logo=KDE&logoColor=black"><img src="https://img.shields.io/badge/XFCE-ff5b81?style=for-the-badge&logo=xfce&logoColor=black"><img src="https://img.shields.io/badge/CLI-ff905b?style=for-the-badge&logo=debian&logoColor=black"></ul>
+<h1>→</h1> <img src="https://img.shields.io/badge/KDE%20Plasma-ff5bdb?style=for-the-badge&logo=KDE&logoColor=black"><img src="https://img.shields.io/badge/XFCE-ff5b81?style=for-the-badge&logo=xfce&logoColor=black"><img src="https://img.shields.io/badge/CLI-ff905b?style=for-the-badge&logo=debian&logoColor=black"></ul>
 
 
 <ul style="list-style: none; padding-left:0"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-dc4e32?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/python-3284dc?style=for-the-badge&logo=python&logoColor=white"></ul>
