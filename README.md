@@ -15,5 +15,3 @@
 <img src="https://yt3.googleusercontent.com/5ET7oAiu-voY8RQpZ-D9dQ0LMnSIBbp9tKt4XPbEUEPLO0j9RWUQIKVahkJSqDyM1cBgntDD1w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="1100">
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=astridztar&layout=compact)
-  # of visits<br>
-  <img src="https://profile-counter.glitch.me/astridztar/count.svg" />
