@@ -5,7 +5,7 @@
 + wpm: 160
 
 ! daily driver os → desktop environments
-! programming languages
+! markup/programming languages
 ! favorite software
 ```
 <ul style="list-style: none; padding-left:0"><img src="https://img.shields.io/badge/Debian (GNU/Linux)-dc3232?style=for-the-badge&logo=debian&logoColor=white">
