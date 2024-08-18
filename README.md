@@ -2,7 +2,7 @@
 @@ astrid ztar of insect.christmas@@
 
 + english
-+ wpm: 160
++ wpm: 163
 
 ! daily driver os → desktop environments
 ! markup/programming languages
