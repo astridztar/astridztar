@@ -8,7 +8,7 @@
 ! markup/programming languages
 ! favorite software
 ```
-<ul style="list-style: none; padding-left:0"><img src="https://img.shields.io/badge/Debian 12 (GNU/Linux)-dc3232?style=for-the-badge&logo=debian&logoColor=white">
+<ul style="list-style: none; padding-left:0"><img src="https://img.shields.io/badge/OpenSuse%20Tumbleweed%20%20(Linux)-72BA25?style=for-the-badge&logo=opensuse&logoColor=white">
 → <img src="https://img.shields.io/badge/KDE%20Plasma-ff5bdb?style=for-the-badge&logo=KDE&logoColor=white"><img src="https://img.shields.io/badge/CLI-ff905b?style=for-the-badge&logo=debian&logoColor=white"></ul>
 
 <ul style="list-style: none; padding-left:0"><img src="https://img.shields.io/badge/HTML-5fdb1e?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-dc4e32?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/python-3284dc?style=for-the-badge&logo=python&logoColor=white"></ul>
